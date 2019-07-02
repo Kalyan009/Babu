@@ -1,7 +1,7 @@
 a=float(input())
 if a>0:
-  print("POSITIVE")
+  print("Positive")
 if a<0:
-  printf("NEGITIVE")
+  printf("Negitive")
 if a==0:
-  printf("ZERO")
+  printf("Zero")
