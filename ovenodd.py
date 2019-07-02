@@ -1,5 +1,5 @@
 a=int(input())
-if a%2==0
-  printf("Even")
+if a%2==0:
+  print("Even")
 else:
-  printf("Odd")
+  print("Odd")
